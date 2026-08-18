@@ -10,6 +10,8 @@
 | License | Declared license, or “not confirmed” |
 | Platforms | Declared or observed platforms |
 | Languages | Only verified declared languages |
+| Theme tags | Use the controlled taxonomy from [Tags and Discovery](Tags-and-Discovery) |
+| Discovery source | Credited community index, if one led to the candidate; never a substitute for canonical evidence |
 | Last review | YYYY-MM-DD |
 | Evidence label | Declared, observed, inferred or unconfirmed |
 
@@ -27,4 +29,3 @@ Record archival status, dependency limits, compatibility uncertainty, duplicatio
 ```
 
 Do not include private data, credentials, local browser state, unsupported claims, ratings or invented user feedback.
-

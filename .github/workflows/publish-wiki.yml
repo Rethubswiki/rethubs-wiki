@@ -21,11 +21,15 @@ jobs:
 
       - name: Publish pages from the approved source
         env:
-          WIKI_TOKEN: ${{ github.token }}
+          WIKI_TOKEN: ${{ secrets.WIKI_PUBLISH_TOKEN }}
           REPOSITORY: ${{ github.repository }}
           SOURCE_SHA: ${{ github.sha }}
         run: |
           set -euo pipefail
+          if [ -z "${WIKI_TOKEN}" ]; then
+            echo "WIKI_PUBLISH_TOKEN is required to publish the approved source."
+            exit 1
+          fi
           git clone "https://x-access-token:${WIKI_TOKEN}@github.com/${REPOSITORY}.wiki.git" wiki
           cp wiki-source/*.md wiki/
           cd wiki

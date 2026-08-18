@@ -2,6 +2,8 @@
 
 > **La Pequeña Ballena Celeste** is a friendly marker for an evidence-aware map of open-source entertainment resources.
 
+**Tags:** [orientation](Tags-and-Discovery#orientation) · [open source](Tags-and-Discovery#open-source) · [reading](Tags-and-Discovery#reading) · [video](Tags-and-Discovery#video) · [audio](Tags-and-Discovery#audio)
+
 Rethubs Wiki catalogs open-source software and related resources for reading, video, comics, graphic novels and audio. It distinguishes an application, extension, source, directory, server and integration rather than collapsing them into a single recommendation. A listing describes what can be checked from its cited source at the time of review; it is not a promise that a project will remain available or suitable in every jurisdiction.
 
 ## Read the map
@@ -14,6 +16,8 @@ Rethubs Wiki catalogs open-source software and related resources for reading, vi
 | [Audio and Assisted Tools](Audio-and-Assisted-Tools) | Audio, accessibility and declared assisted-tool resources |
 | [Extensions and Source Directories](Extensions-and-Source-Directories) | Extension families, directories and compatibility boundaries |
 | [Evidence and Review Policy](Evidence-and-Review-Policy) | Source hierarchy, labels, corrections and editorial limits |
+| [Tags and Discovery](Tags-and-Discovery) | Theme taxonomy and the meaning of each organization tag |
+| [Sources and Attribution](Sources-and-Attribution) | Community discovery sources, credits and verification limits |
 | [Changelog](Changelog) | Approved changes and their review references |
 
 ## Reading a resource entry
@@ -23,4 +27,3 @@ Every completed entry should identify a canonical origin, the type of resource, 
 ## Contributing
 
 Open a proposal against the source repository with the [resource template](Resource-Template). A reviewer checks the proposed evidence before it is merged. Only merged, reviewed pages are copied to this Wiki.
-
