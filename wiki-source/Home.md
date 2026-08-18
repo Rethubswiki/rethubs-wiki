@@ -18,6 +18,8 @@ Rethubs Wiki catalogs open-source software and related resources for reading, vi
 | [Evidence and Review Policy](Evidence-and-Review-Policy) | Source hierarchy, labels, corrections and editorial limits |
 | [Tags and Discovery](Tags-and-Discovery) | Theme taxonomy and the meaning of each organization tag |
 | [Sources and Attribution](Sources-and-Attribution) | Community discovery sources, credits and verification limits |
+| [Compatibility Notes](Compatibility-Notes) | Declared platform, installation and constraint records per project |
+| [Community Participation](Community-Participation) | Proposal standards, consent boundaries and respectful conduct |
 | [Changelog](Changelog) | Approved changes and their review references |
 
 ## Reading a resource entry
