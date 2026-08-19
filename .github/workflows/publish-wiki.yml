@@ -32,6 +32,10 @@ jobs:
           fi
           git clone "https://x-access-token:${WIKI_TOKEN}@github.com/${REPOSITORY}.wiki.git" wiki
           cp wiki-source/*.md wiki/
+          if [ -d "wiki-source/assets" ]; then
+            mkdir -p wiki/assets
+            cp -R wiki-source/assets/. wiki/assets/
+          fi
           cd wiki
           git config user.name "rethubs-wiki-publisher[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
