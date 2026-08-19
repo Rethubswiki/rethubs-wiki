@@ -21,6 +21,7 @@ Rethubs Wiki catalogs open-source software and related resources for reading, vi
 | [Compatibility Notes](Compatibility-Notes) | Declared platform, installation and constraint records per project |
 | [Community Participation](Community-Participation) | Proposal standards, consent boundaries and respectful conduct |
 | [Changelog](Changelog) | Approved changes and their review references |
+| [Open Entertainment Ecosystem Operations](Open-Entertainment-Ecosystem-Ops) | Versioned maintenance workflow, safety controls and official GitHub MCP boundary |
 
 ## Reading a resource entry
 
