@@ -15,6 +15,9 @@
 | [AniPirate](https://anipirate.dpdns.org/) | Community discovery reference | No claim about authorization, availability or legality follows from a listing. |
 | [Miyomi](https://miyomi.app/) | Project context and ecosystem directory | It is credited when relevant, while entries keep independent primary evidence. |
 | [FMHY](https://fmhy.net/) | Community discovery index | Links remain candidates until their origin, scope and use are reviewed. |
+| [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | Discovery of free self-hosted services | Its categorization does not establish maintenance, media scope or deployment suitability for an individual entry. |
+| [android-foss](https://github.com/offa/android-foss) | Discovery of FOSS Android applications | Its inclusion is secondary evidence; releases, licenses and platform support remain tied to a project’s canonical source. |
+| [awesome-home-media-center](https://github.com/danbovey/awesome-home-media-center) | Historical context for personal media-center tooling | Its curated links can mix licensing models and have limited observed activity, so they are never imported as direct recommendations. |
 
 ## Entry-level credit
 
