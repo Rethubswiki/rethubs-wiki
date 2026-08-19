@@ -1,10 +1,14 @@
 # Rethubs Wiki
 
-> **La Pequeña Ballena Celeste** is a friendly marker for an evidence-aware map of open-source entertainment resources.
+> **La Pequeña Ballena Celeste** is a friendly marker for an evidence-aware, low-friction map of open-source entertainment resources.
 
 **Tags:** [orientation](Tags-and-Discovery#orientation) · [open source](Tags-and-Discovery#open-source) · [reading](Tags-and-Discovery#reading) · [video](Tags-and-Discovery#video) · [audio](Tags-and-Discovery#audio)
 
 Rethubs Wiki catalogs open-source software and related resources for reading, video, comics, graphic novels and audio. It distinguishes an application, extension, source, directory, server and integration rather than collapsing them into a single recommendation. A listing describes what can be checked from its cited source at the time of review; it is not a promise that a project will remain available or suitable in every jurisdiction.
+
+## Navigate with clarity
+
+The public interface uses a **marine–stellar language**: calm blue surfaces, clear routes, high-contrast reading controls and a small whale marker rather than ornamental density. The visual system supports orientation; it does not imply that a project is endorsed, safe in every context or permanently maintained. See [Visual Language and Accessibility](Visual-Language-and-Accessibility) for its semantic, contrast and reduced-motion boundaries.
 
 ## Read the map
 
@@ -22,6 +26,7 @@ Rethubs Wiki catalogs open-source software and related resources for reading, vi
 | [Community Participation](Community-Participation) | Proposal standards, consent boundaries and respectful conduct |
 | [Changelog](Changelog) | Approved changes and their review references |
 | [Open Entertainment Ecosystem Operations](Open-Entertainment-Ecosystem-Ops) | Versioned maintenance workflow, safety controls and official GitHub MCP boundary |
+| [Visual Language and Accessibility](Visual-Language-and-Accessibility) | Marine–stellar interface principles, keyboard access, motion and semantic color limits |
 
 ## Reading a resource entry
 
