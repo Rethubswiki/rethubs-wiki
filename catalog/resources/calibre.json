@@ -1,0 +1,22 @@
+{
+  "id": "calibre",
+  "name": "Calibre",
+  "kind": "tool",
+  "canonicalUrl": "https://github.com/kovidgoyal/calibre",
+  "summary": "Gestor de libros electrónicos de código abierto. El proyecto publica herramientas para organizar una biblioteca local y trabajar con formatos de ebook.",
+  "tags": [
+    "ebooks",
+    "library",
+    "metadata"
+  ],
+  "platforms": [
+    "cross-platform"
+  ],
+  "languages": [],
+  "reviewStatus": "needs-review",
+  "lastReviewed": "2026-08-20",
+  "evidence": [
+    "https://github.com/kovidgoyal/calibre"
+  ],
+  "license": "GPL-3.0"
+}

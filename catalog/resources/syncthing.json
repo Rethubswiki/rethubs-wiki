@@ -1,0 +1,22 @@
+{
+  "id": "syncthing",
+  "name": "Syncthing",
+  "kind": "tool",
+  "canonicalUrl": "https://github.com/syncthing/syncthing",
+  "summary": "Herramienta de sincronización continua de archivos entre equipos. Puede servir para bibliotecas propias, pero no es un servidor multimedia ni una fuente de contenidos.",
+  "tags": [
+    "sync",
+    "self-hosted",
+    "files"
+  ],
+  "platforms": [
+    "cross-platform"
+  ],
+  "languages": [],
+  "reviewStatus": "needs-review",
+  "lastReviewed": "2026-08-20",
+  "evidence": [
+    "https://github.com/syncthing/syncthing"
+  ],
+  "license": "MPL-2.0"
+}

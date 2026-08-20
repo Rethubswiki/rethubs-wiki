@@ -1,0 +1,24 @@
+{
+  "id": "jellyfin",
+  "name": "Jellyfin",
+  "kind": "server",
+  "canonicalUrl": "https://github.com/jellyfin/jellyfin",
+  "summary": "Servidor y API de software libre para organizar y reproducir una biblioteca multimedia que administra la propia persona operadora.",
+  "tags": [
+    "video",
+    "audio",
+    "self-hosted",
+    "library"
+  ],
+  "platforms": [
+    "web",
+    "self-hosted"
+  ],
+  "languages": [],
+  "reviewStatus": "needs-review",
+  "lastReviewed": "2026-08-20",
+  "evidence": [
+    "https://github.com/jellyfin/jellyfin"
+  ],
+  "license": "GPL-2.0"
+}

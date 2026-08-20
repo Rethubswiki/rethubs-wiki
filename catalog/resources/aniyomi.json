@@ -1,0 +1,22 @@
+{
+  "id": "aniyomi",
+  "name": "Aniyomi",
+  "kind": "client",
+  "canonicalUrl": "https://github.com/aniyomiorg/aniyomi",
+  "summary": "Aplicación de código abierto para Android cuyo proyecto declara funciones para manga y anime. La disponibilidad de catálogos o complementos de terceros se revisa por separado.",
+  "tags": [
+    "anime",
+    "manga",
+    "android"
+  ],
+  "platforms": [
+    "android"
+  ],
+  "languages": [],
+  "reviewStatus": "needs-review",
+  "lastReviewed": "2026-08-20",
+  "evidence": [
+    "https://github.com/aniyomiorg/aniyomi"
+  ],
+  "license": "Apache-2.0"
+}

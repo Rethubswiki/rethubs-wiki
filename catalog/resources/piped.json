@@ -1,0 +1,24 @@
+{
+  "id": "piped",
+  "name": "Piped",
+  "kind": "server",
+  "canonicalUrl": "https://github.com/TeamPiped/Piped",
+  "summary": "Interfaz alternativa y orientada a privacidad para un servicio de video, publicada como software AGPL. La disponibilidad de instancias públicas y su estado no se infieren del repositorio.",
+  "tags": [
+    "video",
+    "privacy",
+    "self-hosted",
+    "streaming"
+  ],
+  "platforms": [
+    "web",
+    "self-hosted"
+  ],
+  "languages": [],
+  "reviewStatus": "needs-review",
+  "lastReviewed": "2026-08-20",
+  "evidence": [
+    "https://github.com/TeamPiped/Piped"
+  ],
+  "license": "AGPL-3.0"
+}

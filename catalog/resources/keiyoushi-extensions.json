@@ -1,0 +1,22 @@
+{
+  "id": "keiyoushi-extensions",
+  "name": "Keiyoushi Extensions",
+  "kind": "source",
+  "canonicalUrl": "https://github.com/keiyoushi/extensions-source",
+  "summary": "Código fuente de extensiones mantenido por Keiyoushi para clientes compatibles. La inclusión no avala proveedores, disponibilidad ni derechos sobre contenido de terceros.",
+  "tags": [
+    "extensions",
+    "manga",
+    "android"
+  ],
+  "platforms": [
+    "android"
+  ],
+  "languages": [],
+  "reviewStatus": "needs-review",
+  "lastReviewed": "2026-08-20",
+  "evidence": [
+    "https://github.com/keiyoushi/extensions-source"
+  ],
+  "license": "Apache-2.0"
+}

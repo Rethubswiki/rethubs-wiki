@@ -1,0 +1,23 @@
+{
+  "id": "ytdlnis",
+  "name": "YTDLnis",
+  "kind": "tool",
+  "canonicalUrl": "https://github.com/deniscerri/ytdlnis",
+  "summary": "Herramienta Android de código abierto para descargas de audio y video mediante yt-dlp. No proporciona una garantía sobre ninguna fuente ni sobre los permisos de uso.",
+  "tags": [
+    "download",
+    "audio",
+    "video",
+    "android"
+  ],
+  "platforms": [
+    "android"
+  ],
+  "languages": [],
+  "reviewStatus": "needs-review",
+  "lastReviewed": "2026-08-20",
+  "evidence": [
+    "https://github.com/deniscerri/ytdlnis"
+  ],
+  "license": "GPL-3.0"
+}

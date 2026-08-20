@@ -1,0 +1,22 @@
+{
+  "id": "cloudstream",
+  "name": "CloudStream",
+  "kind": "client",
+  "canonicalUrl": "https://github.com/recloudstream/cloudstream",
+  "summary": "Aplicación Android de código abierto cuyo repositorio declara streaming y descarga de medios. Esta ficha no enumera proveedores ni afirma disponibilidad de obras concretas.",
+  "tags": [
+    "video",
+    "streaming",
+    "android"
+  ],
+  "platforms": [
+    "android"
+  ],
+  "languages": [],
+  "reviewStatus": "needs-review",
+  "lastReviewed": "2026-08-20",
+  "evidence": [
+    "https://github.com/recloudstream/cloudstream"
+  ],
+  "license": "GPL-3.0"
+}

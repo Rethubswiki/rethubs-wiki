@@ -1,0 +1,23 @@
+{
+  "id": "suwayomi-server",
+  "name": "Suwayomi Server",
+  "kind": "server",
+  "canonicalUrl": "https://github.com/Suwayomi/Suwayomi-Server",
+  "summary": "Proyecto de código abierto para biblioteca y lectura de manga en entorno propio. La ficha no certifica extensiones ni fuentes de contenido externas.",
+  "tags": [
+    "manga",
+    "self-hosted",
+    "library"
+  ],
+  "platforms": [
+    "web",
+    "self-hosted"
+  ],
+  "languages": [],
+  "reviewStatus": "needs-review",
+  "lastReviewed": "2026-08-20",
+  "evidence": [
+    "https://github.com/Suwayomi/Suwayomi-Server"
+  ],
+  "license": "MPL-2.0"
+}

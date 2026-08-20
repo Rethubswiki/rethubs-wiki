@@ -1,0 +1,22 @@
+{
+  "id": "innertune",
+  "name": "InnerTune",
+  "kind": "client",
+  "canonicalUrl": "https://github.com/z-huang/InnerTune",
+  "summary": "Cliente Android de música basado en un servicio de terceros según su repositorio. Su última publicación disponible es anterior a la fecha de revisión, por lo que requiere comprobación adicional antes de depender de él.",
+  "tags": [
+    "audio",
+    "music",
+    "android"
+  ],
+  "platforms": [
+    "android"
+  ],
+  "languages": [],
+  "reviewStatus": "needs-review",
+  "lastReviewed": "2026-08-20",
+  "evidence": [
+    "https://github.com/z-huang/InnerTune"
+  ],
+  "license": "GPL-3.0"
+}

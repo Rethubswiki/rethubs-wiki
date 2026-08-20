@@ -1,0 +1,24 @@
+{
+  "id": "navidrome",
+  "name": "Navidrome",
+  "kind": "server",
+  "canonicalUrl": "https://github.com/navidrome/navidrome",
+  "summary": "Servidor personal de streaming de audio de código abierto para una biblioteca administrada por la persona operadora. Declara compatibilidad con el ecosistema OpenSubsonic.",
+  "tags": [
+    "audio",
+    "music",
+    "self-hosted",
+    "streaming"
+  ],
+  "platforms": [
+    "web",
+    "self-hosted"
+  ],
+  "languages": [],
+  "reviewStatus": "needs-review",
+  "lastReviewed": "2026-08-20",
+  "evidence": [
+    "https://github.com/navidrome/navidrome"
+  ],
+  "license": "GPL-3.0"
+}

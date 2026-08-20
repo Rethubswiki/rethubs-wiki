@@ -1,0 +1,23 @@
+{
+  "id": "newpipe",
+  "name": "NewPipe",
+  "kind": "client",
+  "canonicalUrl": "https://github.com/TeamNewPipe/NewPipe",
+  "summary": "Interfaz de streaming libre y ligera para Android. El proyecto declara integración con servicios concretos, pero sus condiciones y disponibilidad deben revisarse en cada caso.",
+  "tags": [
+    "video",
+    "audio",
+    "streaming",
+    "android"
+  ],
+  "platforms": [
+    "android"
+  ],
+  "languages": [],
+  "reviewStatus": "needs-review",
+  "lastReviewed": "2026-08-20",
+  "evidence": [
+    "https://github.com/TeamNewPipe/NewPipe"
+  ],
+  "license": "GPL-3.0"
+}

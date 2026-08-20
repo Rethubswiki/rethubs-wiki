@@ -1,0 +1,22 @@
+{
+  "id": "musicbrainz-picard",
+  "name": "MusicBrainz Picard",
+  "kind": "tool",
+  "canonicalUrl": "https://github.com/metabrainz/picard",
+  "summary": "Etiquetador de música multiplataforma que utiliza la base de datos MusicBrainz. La ficha describe la gestión de metadatos, no un servicio de reproducción o descarga.",
+  "tags": [
+    "audio",
+    "metadata",
+    "music"
+  ],
+  "platforms": [
+    "cross-platform"
+  ],
+  "languages": [],
+  "reviewStatus": "needs-review",
+  "lastReviewed": "2026-08-20",
+  "evidence": [
+    "https://github.com/metabrainz/picard"
+  ],
+  "license": "GPL-2.0"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "koreader",
+  "name": "KOReader",
+  "kind": "client",
+  "canonicalUrl": "https://github.com/koreader/koreader",
+  "summary": "Lector de libros electrónicos de código abierto que declara soporte para formatos como EPUB, PDF, DjVu y FB2 en dispositivos compatibles.",
+  "tags": [
+    "ebooks",
+    "reader",
+    "epub",
+    "pdf"
+  ],
+  "platforms": [
+    "android"
+  ],
+  "languages": [],
+  "reviewStatus": "needs-review",
+  "lastReviewed": "2026-08-20",
+  "evidence": [
+    "https://github.com/koreader/koreader"
+  ],
+  "license": "AGPL-3.0"
+}
