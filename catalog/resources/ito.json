@@ -1,0 +1,14 @@
+{
+  "id": "ito",
+  "name": "Ito",
+  "kind": "client",
+  "canonicalUrl": "https://github.com/itoapp/Ito",
+  "summary": "Visor iOS de código abierto que el proyecto describe para manga, anime y novelas. No se registró una publicación más reciente mediante el endpoint consultado, sin inferir discontinuidad.",
+  "tags": ["open-source", "anime", "manga", "light-novels", "ios"],
+  "platforms": ["ios"],
+  "languages": [],
+  "reviewStatus": "needs-review",
+  "lastReviewed": "2026-08-20",
+  "evidence": ["https://github.com/itoapp/Ito"],
+  "license": "MPL-2.0"
+}

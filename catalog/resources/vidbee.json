@@ -1,0 +1,14 @@
+{
+  "id": "vidbee",
+  "name": "VidBee",
+  "kind": "tool",
+  "canonicalUrl": "https://github.com/nexmoe/VidBee",
+  "summary": "Herramienta de código abierto cuyo proyecto declara descargas de video desde sitios web. La capacidad técnica no demuestra que una descarga esté autorizada por el servicio o la jurisdicción aplicable.",
+  "tags": ["open-source", "video", "download"],
+  "platforms": [],
+  "languages": [],
+  "reviewStatus": "needs-review",
+  "lastReviewed": "2026-08-20",
+  "evidence": ["https://github.com/nexmoe/VidBee", "https://github.com/nexmoe/VidBee/releases/tag/v1.3.14"],
+  "license": "MIT"
+}

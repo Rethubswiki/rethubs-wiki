@@ -1,0 +1,14 @@
+{
+  "id": "hometube",
+  "name": "HomeTube",
+  "kind": "tool",
+  "canonicalUrl": "https://github.com/EgalitarianMonkey/hometube",
+  "summary": "Herramienta autoalojable que el proyecto describe para organizar descargas de video en una biblioteca doméstica. La persona operadora conserva la responsabilidad por su infraestructura y sus medios.",
+  "tags": ["open-source", "video", "download", "self-hosted"],
+  "platforms": ["self-hosted"],
+  "languages": [],
+  "reviewStatus": "needs-review",
+  "lastReviewed": "2026-08-20",
+  "evidence": ["https://github.com/EgalitarianMonkey/hometube", "https://github.com/EgalitarianMonkey/hometube/releases/tag/v2.10.0"],
+  "license": "AGPL-3.0"
+}

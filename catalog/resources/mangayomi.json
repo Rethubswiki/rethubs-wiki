@@ -1,0 +1,14 @@
+{
+  "id": "mangayomi",
+  "name": "Mangayomi",
+  "kind": "client",
+  "canonicalUrl": "https://github.com/kodjodevf/mangayomi",
+  "summary": "Aplicación de código abierto que el proyecto describe para leer manga y novelas, y ver anime en Android, iOS, macOS, Linux y Windows. Las fuentes de terceros se revisan por separado.",
+  "tags": ["open-source", "anime", "manga", "light-novels", "android", "ios", "macos", "linux", "windows"],
+  "platforms": ["android", "ios", "macos", "linux", "windows"],
+  "languages": [],
+  "reviewStatus": "needs-review",
+  "lastReviewed": "2026-08-20",
+  "evidence": ["https://github.com/kodjodevf/mangayomi", "https://github.com/kodjodevf/mangayomi/releases/tag/v0.8.8"],
+  "license": "Apache-2.0"
+}
