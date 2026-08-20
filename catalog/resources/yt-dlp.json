@@ -1,0 +1,23 @@
+{
+  "id": "yt-dlp",
+  "name": "yt-dlp",
+  "kind": "tool",
+  "canonicalUrl": "https://github.com/yt-dlp/yt-dlp",
+  "summary": "Herramienta de línea de comandos para descargas de audio y video. La ficha no indica qué servicios son compatibles ni sustituye la revisión de derechos y términos aplicables.",
+  "tags": [
+    "download",
+    "audio",
+    "video",
+    "cli"
+  ],
+  "platforms": [
+    "cross-platform"
+  ],
+  "languages": [],
+  "reviewStatus": "needs-review",
+  "lastReviewed": "2026-08-20",
+  "evidence": [
+    "https://github.com/yt-dlp/yt-dlp"
+  ],
+  "license": "Unlicense"
+}

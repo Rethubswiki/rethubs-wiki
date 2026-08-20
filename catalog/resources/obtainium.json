@@ -1,0 +1,22 @@
+{
+  "id": "obtainium",
+  "name": "Obtainium",
+  "kind": "store",
+  "canonicalUrl": "https://github.com/ImranR98/Obtainium",
+  "summary": "Aplicación Android de código abierto para comprobar actualizaciones desde los canales configurados por la persona usuaria. La procedencia de cada canal se verifica por separado.",
+  "tags": [
+    "android",
+    "updates",
+    "distribution"
+  ],
+  "platforms": [
+    "android"
+  ],
+  "languages": [],
+  "reviewStatus": "needs-review",
+  "lastReviewed": "2026-08-20",
+  "evidence": [
+    "https://github.com/ImranR98/Obtainium"
+  ],
+  "license": "GPL-3.0"
+}

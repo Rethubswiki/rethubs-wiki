@@ -1,0 +1,24 @@
+{
+  "id": "audiobookshelf",
+  "name": "Audiobookshelf",
+  "kind": "server",
+  "canonicalUrl": "https://github.com/advplyr/audiobookshelf",
+  "summary": "Servidor autoalojado de audiolibros y podcasts para una colección aportada por quien lo administra.",
+  "tags": [
+    "audio",
+    "audiobooks",
+    "podcasts",
+    "self-hosted"
+  ],
+  "platforms": [
+    "web",
+    "self-hosted"
+  ],
+  "languages": [],
+  "reviewStatus": "needs-review",
+  "lastReviewed": "2026-08-20",
+  "evidence": [
+    "https://github.com/advplyr/audiobookshelf"
+  ],
+  "license": "GPL-3.0"
+}

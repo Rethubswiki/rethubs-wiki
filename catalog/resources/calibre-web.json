@@ -1,0 +1,24 @@
+{
+  "id": "calibre-web",
+  "name": "Calibre-Web",
+  "kind": "server",
+  "canonicalUrl": "https://github.com/janeczku/calibre-web",
+  "summary": "Aplicación web autoalojada para explorar, leer y descargar libros electrónicos desde una biblioteca local de Calibre.",
+  "tags": [
+    "ebooks",
+    "self-hosted",
+    "library",
+    "web"
+  ],
+  "platforms": [
+    "web",
+    "self-hosted"
+  ],
+  "languages": [],
+  "reviewStatus": "needs-review",
+  "lastReviewed": "2026-08-20",
+  "evidence": [
+    "https://github.com/janeczku/calibre-web"
+  ],
+  "license": "GPL-3.0"
+}

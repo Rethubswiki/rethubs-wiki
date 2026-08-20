@@ -1,0 +1,23 @@
+{
+  "id": "seal",
+  "name": "Seal",
+  "kind": "tool",
+  "canonicalUrl": "https://github.com/JunkFood02/Seal",
+  "summary": "Herramienta Android de código abierto para descarga de audio y video basada en yt-dlp. La persona usuaria debe verificar derechos y condiciones de cada fuente.",
+  "tags": [
+    "download",
+    "audio",
+    "video",
+    "android"
+  ],
+  "platforms": [
+    "android"
+  ],
+  "languages": [],
+  "reviewStatus": "needs-review",
+  "lastReviewed": "2026-08-20",
+  "evidence": [
+    "https://github.com/JunkFood02/Seal"
+  ],
+  "license": "GPL-3.0"
+}

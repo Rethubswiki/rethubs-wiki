@@ -34,6 +34,7 @@ Rethubs Wiki organizes software, extensions, servers, guides, directories and st
 | [Style, Translation and Accessibility Guide](Style-Translation-and-Accessibility-Guide) | A shared standard for clear, reviewed and accessible pages. |
 | [Link Reporting and Validation](Link-Reporting-and-Validation) | How to report anomalies and run the reproducible source checks. |
 | [Historical Orders and S+](Historical-Orders-and-S-Plus) | Maps the companion site’s reconciled capabilities, local-data boundaries and review-first automation. |
+| [Catalog Expansion — 2026-08-20](Catalog-Expansion-2026-08-20) | Candidate matrix for reading, audio, video, servers, extensions and distribution, with source-level limits. |
 | [Changelog](Changelog) | Approved source-level changes only. |
 
 ## Visual language

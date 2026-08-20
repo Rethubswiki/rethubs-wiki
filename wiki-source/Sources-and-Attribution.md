@@ -28,3 +28,7 @@
 When one of these sources leads to a candidate, the published entry records it under **Discovery source** together with the review date. The resource's canonical project remains the primary reference for license, technical function, maintenance and distribution claims. Contributors should suggest corrections through the source repository with a direct citation.
 
 User-submitted inventories and community guides are treated as **discovery notes**. They can help find a project or a distribution path, but a note does not become a published technical claim until the relevant canonical project and the scope of the claim have been checked.
+
+## Catalog expansion source method — 2026-08-20
+
+The catalog expansion dated 2026-08-20 credits the three user-provided inventories as **candidate discovery notes** and the communities above as discovery context. Each proposed record uses the cited project repository as its primary source. Repository activity, archive state, declared license and, when available, the latest release were checked independently before drafting. The resulting records remain `needs-review` until a human editor accepts them; a repository response is evidence, not an automatic editorial approval.

@@ -1,0 +1,22 @@
+{
+  "id": "lnreader",
+  "name": "LNReader",
+  "kind": "client",
+  "canonicalUrl": "https://github.com/LNReader/lnreader",
+  "summary": "Lector de novelas ligeras de código abierto para Android. La ficha describe el cliente; no verifica la disponibilidad de fuentes de lectura de terceros.",
+  "tags": [
+    "light-novels",
+    "reader",
+    "android"
+  ],
+  "platforms": [
+    "android"
+  ],
+  "languages": [],
+  "reviewStatus": "needs-review",
+  "lastReviewed": "2026-08-20",
+  "evidence": [
+    "https://github.com/LNReader/lnreader"
+  ],
+  "license": "MIT"
+}

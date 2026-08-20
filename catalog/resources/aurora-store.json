@@ -1,0 +1,22 @@
+{
+  "id": "aurora-store",
+  "name": "Aurora Store",
+  "kind": "store",
+  "canonicalUrl": "https://github.com/AuroraOSS/AuroraStore",
+  "summary": "Cliente Android publicado por AuroraOSS. La fuente consultada en GitHub se identifica como espejo; no se declara una versión actual desde ese repositorio sin revisar el origen principal.",
+  "tags": [
+    "android",
+    "store",
+    "distribution"
+  ],
+  "platforms": [
+    "android"
+  ],
+  "languages": [],
+  "reviewStatus": "needs-review",
+  "lastReviewed": "2026-08-20",
+  "evidence": [
+    "https://github.com/AuroraOSS/AuroraStore"
+  ],
+  "license": "GPL-3.0"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "fdroid-server",
+  "name": "F-Droid Server",
+  "kind": "tool",
+  "canonicalUrl": "https://github.com/f-droid/fdroidserver",
+  "summary": "Herramientas de servidor y compilación para el ecosistema F-Droid. No es una confirmación de que cualquier aplicación del directorio sea actual o compatible con un dispositivo.",
+  "tags": [
+    "android",
+    "distribution",
+    "self-hosted"
+  ],
+  "platforms": [
+    "self-hosted"
+  ],
+  "languages": [],
+  "reviewStatus": "needs-review",
+  "lastReviewed": "2026-08-20",
+  "evidence": [
+    "https://github.com/f-droid/fdroidserver"
+  ],
+  "license": "AGPL-3.0"
+}

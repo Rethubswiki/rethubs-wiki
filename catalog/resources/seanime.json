@@ -1,0 +1,24 @@
+{
+  "id": "seanime",
+  "name": "Seanime",
+  "kind": "server",
+  "canonicalUrl": "https://github.com/5rahim/seanime",
+  "summary": "Servidor multimedia de código abierto con interfaz web y aplicación de escritorio para bibliotecas de anime y manga. La persona operadora aporta y controla su biblioteca.",
+  "tags": [
+    "anime",
+    "manga",
+    "self-hosted",
+    "library"
+  ],
+  "platforms": [
+    "web",
+    "self-hosted"
+  ],
+  "languages": [],
+  "reviewStatus": "needs-review",
+  "lastReviewed": "2026-08-20",
+  "evidence": [
+    "https://github.com/5rahim/seanime"
+  ],
+  "license": "GPL-3.0"
+}

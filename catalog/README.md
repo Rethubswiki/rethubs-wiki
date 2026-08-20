@@ -22,6 +22,7 @@ Las URLs de `canonicalUrl` y `evidence` deben usar HTTPS y pertenecer a un domin
 | `canonicalUrl` | URL canónica atribuible al proyecto o servicio. |
 | `summary` | Descripción breve, neutral y verificable. |
 | `tags`, `platforms`, `languages` | Vocabulario de descubrimiento y compatibilidad declarada. |
+| `license` | Licencia declarada por la fuente primaria, solo cuando fue expuesta de forma comprobable. |
 | `reviewStatus`, `lastReviewed`, `evidence` | Estado editorial, fecha de revisión y rutas de evidencia. |
 
 ## Comandos reproducibles

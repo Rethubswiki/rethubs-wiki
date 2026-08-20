@@ -1,0 +1,23 @@
+{
+  "id": "auxio",
+  "name": "Auxio",
+  "kind": "client",
+  "canonicalUrl": "https://github.com/OxygenCobalt/Auxio",
+  "summary": "Reproductor de música local, simple y de código abierto para Android. La ficha no presupone una fuente de streaming ni biblioteca incluida.",
+  "tags": [
+    "audio",
+    "music",
+    "offline",
+    "android"
+  ],
+  "platforms": [
+    "android"
+  ],
+  "languages": [],
+  "reviewStatus": "needs-review",
+  "lastReviewed": "2026-08-20",
+  "evidence": [
+    "https://github.com/OxygenCobalt/Auxio"
+  ],
+  "license": "GPL-3.0"
+}

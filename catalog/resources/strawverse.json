@@ -1,0 +1,25 @@
+{
+  "id": "strawverse",
+  "name": "StrawVerse",
+  "kind": "tool",
+  "canonicalUrl": "https://github.com/TheYogMehta/StrawVerse",
+  "summary": "Herramienta de código abierto para descargar y organizar anime y manga. Su ficha describe el software, no avala fuentes ni disponibilidad de obras específicas.",
+  "tags": [
+    "anime",
+    "manga",
+    "download",
+    "library"
+  ],
+  "platforms": [
+    "android",
+    "linux",
+    "windows"
+  ],
+  "languages": [],
+  "reviewStatus": "needs-review",
+  "lastReviewed": "2026-08-20",
+  "evidence": [
+    "https://github.com/TheYogMehta/StrawVerse"
+  ],
+  "license": "GPL-3.0"
+}
