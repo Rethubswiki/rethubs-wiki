@@ -27,6 +27,7 @@ Rethubs Wiki organizes software, extensions, servers, guides, directories and st
 | [Source Routes](Source-Routes) | Role-first source map with validation boundaries. |
 | [Sources and Attribution](Sources-and-Attribution) | Community discovery credits and non-affiliation limits. |
 | [Wiki Structure and Maintenance](Wiki-Structure-and-Maintenance) | Navigation model, page responsibilities and publication controls. |
+| [Executive Status — 2026-08-20](Executive-Status-2026-08-20) | Verified deployment, architecture and immediate maintenance status. |
 | [Changelog](Changelog) | Approved source-level changes only. |
 
 ## Visual language
