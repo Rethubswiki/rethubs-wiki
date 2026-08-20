@@ -1,0 +1,49 @@
+{
+  "version": "1.0.0",
+  "updated": "2026-08-20",
+  "purpose": "Vocabulary for editorial navigation. It does not replace the public catalog record schema or its required kind field.",
+  "categories": [
+    {
+      "id": "reading",
+      "label": { "es": "Lectura", "en": "Reading" },
+      "description": "Manga, comics, novels, books and document readers.",
+      "compatibleKinds": ["client", "directory", "source", "tool"],
+      "subcategories": ["manga", "comics", "light-novels", "books", "documents"]
+    },
+    {
+      "id": "video",
+      "label": { "es": "Video", "en": "Video" },
+      "description": "Video playback, organization and audiovisual catalog resources.",
+      "compatibleKinds": ["client", "directory", "source", "tool"],
+      "subcategories": ["anime", "series", "films", "players", "download-management"]
+    },
+    {
+      "id": "audio",
+      "label": { "es": "Audio y música", "en": "Audio and music" },
+      "description": "Music, podcast and audiobook playback or library management.",
+      "compatibleKinds": ["client", "server", "directory", "tool"],
+      "subcategories": ["players", "streaming", "music-libraries", "podcasts", "audiobooks"]
+    },
+    {
+      "id": "extensions",
+      "label": { "es": "Extensiones y complementos", "en": "Extensions and add-ons" },
+      "description": "Extensions that require a documented compatible host application or platform.",
+      "compatibleKinds": ["source", "tool", "community"],
+      "subcategories": ["browser", "android-app", "userscript"]
+    },
+    {
+      "id": "self-hosting",
+      "label": { "es": "Servidores y autoalojamiento", "en": "Servers and self-hosting" },
+      "description": "Services that can be operated by a user or community on infrastructure they control.",
+      "compatibleKinds": ["server", "tool", "directory"],
+      "subcategories": ["content-servers", "apis", "libraries", "self-hosting"]
+    },
+    {
+      "id": "utilities",
+      "label": { "es": "Herramientas y utilidades", "en": "Tools and utilities" },
+      "description": "Supporting tools for organization, discovery, migration or maintenance.",
+      "compatibleKinds": ["tool", "client", "directory"],
+      "subcategories": ["managers", "download-management", "browsers", "system-utilities"]
+    }
+  ]
+}
