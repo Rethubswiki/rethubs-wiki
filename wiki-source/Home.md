@@ -36,6 +36,7 @@ Rethubs Wiki organizes software, extensions, servers, guides, directories and st
 | [Historical Orders and S+](Historical-Orders-and-S-Plus) | Maps the companion site’s reconciled capabilities, local-data boundaries and review-first automation. |
 | [Catalog Expansion — 2026-08-20](Catalog-Expansion-2026-08-20) | Candidate matrix for reading, audio, video, servers, extensions and distribution, with source-level limits. |
 | [Compatibility Matrix and Relationships — 2026-08-20](Compatibility-Matrix-and-Relationships-2026-08-20) | Declared platforms, client–server routes, extension boundaries and low-resource guidance with dated evidence. |
+| [Active Catalog Intake — 2026-08-20](../catalog/intake/README.md) | 293 technically verified candidates: separated from approved records until editorial review. |
 | [Changelog](Changelog) | Approved source-level changes only. |
 
 ## Visual language
