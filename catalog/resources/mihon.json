@@ -1,0 +1,16 @@
+{
+  "id": "mihon",
+  "name": "Mihon",
+  "kind": "client",
+  "canonicalUrl": "https://github.com/mihonapp/mihon",
+  "summary": "Lector de manga, webtoons y cómics de código abierto para Android. El proyecto declara lectura local, organización por categorías y copias de seguridad locales.",
+  "tags": ["manga", "reader", "android"],
+  "platforms": ["android"],
+  "languages": [],
+  "reviewStatus": "verified",
+  "lastReviewed": "2026-08-20",
+  "evidence": [
+    "https://github.com/mihonapp/mihon",
+    "https://mihon.app/download"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "gramophone",
+  "name": "Gramophone",
+  "kind": "client",
+  "canonicalUrl": "https://github.com/FoedusProgramme/Gramophone",
+  "summary": "Reproductor musical de código abierto para Android, basado en Media3 y Material Design, con biblioteca local, listas, búsqueda y letras sincronizadas declaradas por el proyecto.",
+  "tags": ["audio", "android", "music", "player"],
+  "platforms": ["android"],
+  "languages": [],
+  "reviewStatus": "verified",
+  "lastReviewed": "2026-08-20",
+  "evidence": [
+    "https://github.com/FoedusProgramme/Gramophone",
+    "https://f-droid.org/packages/org.akanework.gramophone/"
+  ]
+}

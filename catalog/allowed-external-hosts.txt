@@ -12,8 +12,11 @@ fmhy.net
 github.com
 gitlab.com
 izzysoft.de
+jellyfin.org
+komga.org
 livechart.me
 mangadex.org
+mihon.app
 miyomi.app
 miyomi.pages.dev
 myanimelist.net

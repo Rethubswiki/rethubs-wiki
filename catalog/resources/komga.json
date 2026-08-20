@@ -1,0 +1,16 @@
+{
+  "id": "komga",
+  "name": "Komga",
+  "kind": "server",
+  "canonicalUrl": "https://github.com/gotson/komga",
+  "summary": "Servidor de medios de código abierto para cómics, manga, revistas y libros electrónicos, con interfaz web, API y soporte OPDS declarados por el proyecto.",
+  "tags": ["comics", "manga", "media-server", "self-hosted"],
+  "platforms": ["web", "self-hosted"],
+  "languages": [],
+  "reviewStatus": "verified",
+  "lastReviewed": "2026-08-20",
+  "evidence": [
+    "https://github.com/gotson/komga",
+    "https://komga.org/docs/category/installation"
+  ]
+}
