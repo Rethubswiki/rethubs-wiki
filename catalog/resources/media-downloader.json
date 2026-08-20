@@ -1,0 +1,14 @@
+{
+  "id": "media-downloader",
+  "name": "Media Downloader",
+  "kind": "tool",
+  "canonicalUrl": "https://github.com/mhogomchungu/media-downloader",
+  "summary": "Interfaz Qt/C++ que el proyecto declara compatible con varios motores de descarga y galerías. Se cataloga como herramienta técnica, no como fuente de contenidos.",
+  "tags": ["open-source", "video", "audio", "download"],
+  "platforms": [],
+  "languages": [],
+  "reviewStatus": "needs-review",
+  "lastReviewed": "2026-08-20",
+  "evidence": ["https://github.com/mhogomchungu/media-downloader", "https://github.com/mhogomchungu/media-downloader/releases/tag/5.6.5"],
+  "license": "GPL-2.0"
+}

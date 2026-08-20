@@ -1,0 +1,14 @@
+{
+  "id": "otakuworld",
+  "name": "OtakuWorld",
+  "kind": "client",
+  "canonicalUrl": "https://github.com/jakepurple13/OtakuWorld",
+  "summary": "Familia de tres aplicaciones Android con una interfaz compartida para anime, manga y novelas. El proyecto aclara que no incorpora fuentes por sí misma.",
+  "tags": ["open-source", "anime", "manga", "light-novels", "android"],
+  "platforms": ["android"],
+  "languages": [],
+  "reviewStatus": "needs-review",
+  "lastReviewed": "2026-08-20",
+  "evidence": ["https://github.com/jakepurple13/OtakuWorld", "https://github.com/jakepurple13/OtakuWorld/releases/tag/v32.1.2"],
+  "license": "Apache-2.0"
+}

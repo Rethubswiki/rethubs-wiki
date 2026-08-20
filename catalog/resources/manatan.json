@@ -1,0 +1,14 @@
+{
+  "id": "manatan",
+  "name": "Manatan",
+  "kind": "client",
+  "canonicalUrl": "https://github.com/KolbyML/Manatan",
+  "summary": "Proyecto de aprendizaje inmersivo que declara integrar anime, manga y novelas en varias plataformas. No se presenta aquí como garantía de acceso a ningún catálogo externo.",
+  "tags": ["open-source", "anime", "manga", "light-novels", "cross-platform"],
+  "platforms": ["cross-platform"],
+  "languages": [],
+  "reviewStatus": "needs-review",
+  "lastReviewed": "2026-08-20",
+  "evidence": ["https://github.com/KolbyML/Manatan", "https://github.com/KolbyML/Manatan/releases/tag/v6.0.91"],
+  "license": "MIT"
+}

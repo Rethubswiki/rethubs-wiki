@@ -32,3 +32,5 @@ User-submitted inventories and community guides are treated as **discovery notes
 ## Catalog expansion source method — 2026-08-20
 
 The catalog expansion dated 2026-08-20 credits the three user-provided inventories as **candidate discovery notes** and the communities above as discovery context. Each proposed record uses the cited project repository as its primary source. Repository activity, archive state, declared license and, when available, the latest release were checked independently before drafting. The resulting records remain `needs-review` until a human editor accepts them; a repository response is evidence, not an automatic editorial approval.
+
+The premium and all-in-one intake dated 2026-08-20 follows the same separation. GitHub repository metadata and the release pages named in each record are the primary evidence for technical fields; the credited communities remain discovery and coverage context. The intake does not import their descriptions wholesale or turn their listings into endorsements.

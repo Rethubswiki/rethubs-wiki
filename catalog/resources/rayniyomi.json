@@ -1,0 +1,14 @@
+{
+  "id": "rayniyomi",
+  "name": "Rayniyomi",
+  "kind": "client",
+  "canonicalUrl": "https://github.com/ryacub/rayniyomi",
+  "summary": "Cliente Android de código abierto para anime, manga y novelas ligeras; el propio proyecto declara que se basa en Aniyomi. La compatibilidad concreta se revisa de forma independiente.",
+  "tags": ["open-source", "anime", "manga", "light-novels", "android"],
+  "platforms": ["android"],
+  "languages": [],
+  "reviewStatus": "needs-review",
+  "lastReviewed": "2026-08-20",
+  "evidence": ["https://github.com/ryacub/rayniyomi", "https://github.com/ryacub/rayniyomi/releases/tag/v0.18.1.267"],
+  "license": "Apache-2.0"
+}

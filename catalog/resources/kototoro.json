@@ -1,0 +1,14 @@
+{
+  "id": "kototoro",
+  "name": "Kototoro",
+  "kind": "client",
+  "canonicalUrl": "https://github.com/Kototoro-app/Kototoro",
+  "summary": "Lector Android cuyo repositorio declara soporte para manga, novelas y video. El registro no presupone disponibilidad ni autorización de fuentes externas.",
+  "tags": ["open-source", "manga", "light-novels", "video", "android"],
+  "platforms": ["android"],
+  "languages": [],
+  "reviewStatus": "needs-review",
+  "lastReviewed": "2026-08-20",
+  "evidence": ["https://github.com/Kototoro-app/Kototoro", "https://github.com/Kototoro-app/Kototoro/releases/tag/v1.9.9"],
+  "license": "Apache-2.0"
+}
