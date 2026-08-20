@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "updated": "2026-08-20",
+  "purpose": "Recommended public tag vocabulary. A tag is only applied when its claim is supported by a cited public source in the resource record.",
+  "tags": [
+    { "id": "open-source", "type": "property", "description": "Publicly accessible source code is declared by a primary source." },
+    { "id": "android", "type": "platform", "description": "A primary source declares Android support." },
+    { "id": "ios", "type": "platform", "description": "A primary source declares iOS support." },
+    { "id": "web", "type": "platform", "description": "A primary source declares browser-based access." },
+    { "id": "windows", "type": "platform", "description": "A primary source declares Windows support." },
+    { "id": "linux", "type": "platform", "description": "A primary source declares Linux support." },
+    { "id": "macos", "type": "platform", "description": "A primary source declares macOS support." },
+    { "id": "self-hosted", "type": "feature", "description": "Documentation supports user-operated hosting." },
+    { "id": "extensions", "type": "feature", "description": "Documentation supports an extension system." },
+    { "id": "offline", "type": "feature", "description": "Documentation declares an offline mode or local operation." },
+    { "id": "multilingual", "type": "language", "description": "Documentation declares multiple interface languages." },
+    { "id": "download", "type": "feature", "description": "Documentation declares a lawful local-download feature." }
+  ],
+  "excludedClaimsWithoutEvidence": ["ad-free", "no-tracking", "active-community", "safe", "trusted"]
+}

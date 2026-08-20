@@ -33,6 +33,7 @@ Rethubs Wiki organizes software, extensions, servers, guides, directories and st
 | [FAQ and Glossary](FAQ-and-Glossary) | Common questions, essential terms and the current limits of the Wiki. |
 | [Style, Translation and Accessibility Guide](Style-Translation-and-Accessibility-Guide) | A shared standard for clear, reviewed and accessible pages. |
 | [Link Reporting and Validation](Link-Reporting-and-Validation) | How to report anomalies and run the reproducible source checks. |
+| [Historical Orders and S+](Historical-Orders-and-S-Plus) | Maps the companion site’s reconciled capabilities, local-data boundaries and review-first automation. |
 | [Changelog](Changelog) | Approved source-level changes only. |
 
 ## Visual language
