@@ -1,0 +1,16 @@
+{
+  "id": "finamp",
+  "name": "Finamp",
+  "kind": "client",
+  "canonicalUrl": "https://github.com/finamp-app/finamp",
+  "summary": "Reproductor musical de código abierto para servidores Jellyfin. El proyecto declara distribuciones para Android, iOS y Linux, y exige un servidor Jellyfin propio.",
+  "tags": ["audio", "jellyfin", "music", "player"],
+  "platforms": ["android", "ios", "linux"],
+  "languages": [],
+  "reviewStatus": "verified",
+  "lastReviewed": "2026-08-20",
+  "evidence": [
+    "https://github.com/finamp-app/finamp",
+    "https://jellyfin.org/"
+  ]
+}

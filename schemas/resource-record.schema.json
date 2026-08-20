@@ -1,0 +1,78 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://rethubs-ecosystem.dedyn.io/schemas/resource-record.schema.json",
+  "title": "Rethubs Wiki public resource record",
+  "description": "A reviewed public catalog record. It intentionally excludes user profiles, comments, private notes and moderation data.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "name",
+    "kind",
+    "canonicalUrl",
+    "summary",
+    "tags",
+    "platforms",
+    "languages",
+    "reviewStatus",
+    "lastReviewed",
+    "evidence"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+      "minLength": 2,
+      "maxLength": 80
+    },
+    "name": {
+      "type": "string",
+      "minLength": 2,
+      "maxLength": 120
+    },
+    "kind": {
+      "type": "string",
+      "enum": ["client", "server", "store", "directory", "source", "community", "tool"]
+    },
+    "canonicalUrl": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https://"
+    },
+    "summary": {
+      "type": "string",
+      "minLength": 20,
+      "maxLength": 500
+    },
+    "tags": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "type": "string", "pattern": "^[a-z0-9][a-z0-9-]{1,40}$" },
+      "uniqueItems": true
+    },
+    "platforms": {
+      "type": "array",
+      "items": { "type": "string", "enum": ["android", "ios", "linux", "macos", "windows", "web", "self-hosted", "cross-platform"] },
+      "uniqueItems": true
+    },
+    "languages": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^[a-z]{2,3}(?:-[A-Z]{2})?$" },
+      "uniqueItems": true
+    },
+    "reviewStatus": {
+      "type": "string",
+      "enum": ["verified", "needs-review", "archived"]
+    },
+    "lastReviewed": {
+      "type": "string",
+      "format": "date"
+    },
+    "evidence": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "type": "string", "format": "uri", "pattern": "^https://" },
+      "uniqueItems": true
+    }
+  }
+}
