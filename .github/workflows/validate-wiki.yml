@@ -1,0 +1,30 @@
+name: Validate Wiki Source
+
+on:
+  pull_request:
+    paths:
+      - "wiki-source/**"
+      - "catalog/**"
+      - "schemas/**"
+      - "scripts/**"
+      - ".github/workflows/validate-wiki.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    name: Validate public documentation
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out proposed change
+        uses: actions/checkout@v4
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Validate sources and public catalog
+        run: node scripts/validate-wiki.mjs
+      - name: Build portable export
+        run: node scripts/export-wiki.mjs --output /tmp/rethubs-wiki-export.json

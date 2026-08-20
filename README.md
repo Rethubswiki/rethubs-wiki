@@ -26,3 +26,13 @@ This repository is the **reviewable source** for the GitHub Wiki. The content un
 
 Start with the Wiki [Home](./wiki-source/Home.md), then consult the [evidence and review policy](./wiki-source/Evidence-and-Review-Policy.md), [resource template](./wiki-source/Resource-Template.md) and [publishing workflow](./wiki-source/Publishing-Workflow.md).
 
+## Validación local
+
+La Wiki incorpora un contrato opcional para fichas públicas en `catalog/` y un validador reproducible. No almacena perfiles, comentarios, preferencias ni datos de moderación.
+
+```bash
+node scripts/validate-wiki.mjs
+node scripts/export-wiki.mjs --output /tmp/rethubs-wiki-export.json
+```
+
+El primer comando comprueba páginas esenciales, enlaces internos, estructura de fichas y patrones básicos de secretos. El segundo genera una exportación portátil de las páginas Markdown y los registros públicos revisados. La revisión humana de evidencia sigue siendo obligatoria.

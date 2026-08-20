@@ -1,0 +1,26 @@
+# Dominios admitidos para los campos canonicalUrl y evidence de fichas estructuradas.
+# Añadir un dominio requiere una propuesta con fuente canónica y revisión humana.
+anidex.info
+anilist.co
+animetosho.org
+appteka.net
+auroraoss.com
+codeberg.org
+everythingmoe.com
+f-droid.org
+fmhy.net
+github.com
+gitlab.com
+izzysoft.de
+livechart.me
+mangadex.org
+miyomi.app
+miyomi.pages.dev
+myanimelist.net
+nyaa.si
+onelist.pro
+openapk.net
+reddit.com
+theindex.moe
+themoway.com
+wotaku.wiki
