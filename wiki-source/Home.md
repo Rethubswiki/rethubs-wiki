@@ -38,6 +38,7 @@ Rethubs Wiki organizes software, extensions, servers, guides, directories and st
 | [Premium and All-in-One Resources — 2026-08-20](Premium-and-All-in-One-Resources-2026-08-20) | Dated, `needs-review` selection of multi-medium clients, download utilities and self-hosted infrastructure. |
 | [Compatibility Matrix and Relationships — 2026-08-20](Compatibility-Matrix-and-Relationships-2026-08-20) | Declared platforms, client–server routes, extension boundaries and low-resource guidance with dated evidence. |
 | [Active Catalog Intake — 2026-08-20](../catalog/intake/README.md) | 293 technically verified candidates: separated from approved records until editorial review. |
+| [Reusable Operations Skill](Reusable-Operations-Skill) | Modular, review-first operational guide for catalog, local privacy, S+, Wiki and authorized publication work. |
 | [Changelog](Changelog) | Approved source-level changes only. |
 
 ## Visual language
